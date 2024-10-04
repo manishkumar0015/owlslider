@@ -1,0 +1,13 @@
+.wrap {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.owl-item {
+    width: 192px !important;
+    height: 160px !important;
+    margin-right: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
